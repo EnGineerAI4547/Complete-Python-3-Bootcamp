@@ -20,14 +20,20 @@ zero-to-hero-python/Python_Practice/
 
 │ └── ...  
 
-├── Week 2/
-│ ├── Day 1.ipynb
-│ ├── Day 2.ipynb
+├── Week 2/  
+
+│ ├── Day 1.ipynb  
+
+│ ├── Day 2.ipynb  
+
 │ └── ...  
 
-├── Week 3/
-│ ├── Day 1.ipynb
-│ ├── Day 2.ipynb
+├── Week 3/  
+
+│ ├── Day 1.ipynb  
+
+│ ├── Day 2.ipynb  
+
 │ └── ...
 └── ...
 
