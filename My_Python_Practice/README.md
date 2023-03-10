@@ -10,15 +10,18 @@ I will aim to commit code daily, time permitting, to keep track of my progress i
 
 The current directory contains all of the Python practice files related to the course. It is organized into subdirectories based on week number (e.g. "Week 1", "Week 2", etc.) and each weekly subdirectory will contain daily contributions. The structure of the repository is as follows:
 
-zero-to-hero-python/Python_Practice/
+zero-to-hero-python/Python_Practice/  
+
 ├── Week 1/
 │ ├── Day 1.ipynb
 │ ├── Day 2.ipynb
-│ └── ...
+│ └── ...  
+
 ├── Week 2/
 │ ├── Day 1.ipynb
 │ ├── Day 2.ipynb
-│ └── ...
+│ └── ...  
+
 ├── Week 3/
 │ ├── Day 1.ipynb
 │ ├── Day 2.ipynb
