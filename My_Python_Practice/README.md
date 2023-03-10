@@ -12,9 +12,12 @@ The current directory contains all of the Python practice files related to the c
 
 zero-to-hero-python/Python_Practice/  
 
-├── Week 1/
-│ ├── Day 1.ipynb
-│ ├── Day 2.ipynb
+├── Week 1/  
+
+│ ├── Day 1.ipynb  
+
+│ ├── Day 2.ipynb  
+
 │ └── ...  
 
 ├── Week 2/
