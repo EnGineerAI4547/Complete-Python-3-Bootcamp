@@ -48,23 +48,29 @@ Overall, the "Zero to Hero in Python" course is a great starting point for anyon
 Variables and data types
 Mathematical operations
 Print statements
-Basic string manipulation
+Basic string manipulation  
+
 2.)Control structures (if/else statements, loops)
 Lists and tuples
-Basic file input and output
+Basic file input and output  
+
 3.)Dictionaries and sets
 Functions
 Lambda expressions
-Map and filter functions
+Map and filter functions  
+
 4.)Object-oriented programming (classes, objects, methods)
 Inheritance and polymorphism
-Errors and exception handling
+Errors and exception handling  
+
 5.)Modules and packages
 Advanced file input and output
-Decorators
+Decorators  
+
 6.)Generators and iterators
 Regular expressions
-Debugging and testing
+Debugging and testing  
+
 7.)Web development with Flask (routing, templates, forms)
 Working with databases
 User authentication
