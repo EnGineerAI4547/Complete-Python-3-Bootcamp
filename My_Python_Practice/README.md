@@ -34,7 +34,8 @@ zero-to-hero-python/Python_Practice/
 
 │ ├── Day 2.ipynb  
 
-│ └── ...
+│ └── ...  
+
 └── ...
 
 ## Description of the Course:
