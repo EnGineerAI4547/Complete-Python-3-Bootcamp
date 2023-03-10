@@ -20,12 +20,12 @@ try:
     age = int(input("Enter your age: "))
 except ValueError:
     # handle the exception if it occurs
-    print("Invalid input. Please enter a valid integer for your age.")
+    print("Invalid input. Please enter a valid integer for your age.")  
+    ```
     
-python```
+
     
     This code prompts the user to enter their age as an integer, but if they enter a non-integer value (e.g. "abc"), a ValueError exception will be raised. The try-except block catches the exception and prints a message to the user.
-
 ## Tools Used
 
 I am using a combination of Jupyter Notebook and Visual Studio Code to complete the course exercises and practice problems. Both tools are excellent for Python development and offer a range of features to support learning and development.
