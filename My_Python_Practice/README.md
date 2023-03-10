@@ -33,12 +33,18 @@ Throughout the course, students will work with real-world data sets and create a
 
 Some of the key topics covered in the course include:
 
-1.Basic Python syntax and data types
-2.Control structures and functions
-3.File input and output
-4.Object-oriented programming
-5.Web development with Flask
-6.Data analysis and visualization with pandas and matplotlib
+1.Basic Python syntax and data types  
+
+2.Control structures and functions  
+
+3.File input and output  
+
+4.Object-oriented programming  
+
+5.Web development with Flask  
+
+6.Data analysis and visualization with pandas and matplotlib  
+
 Overall, the "Zero to Hero in Python" course is a great starting point for anyone looking to learn Python from scratch, whether you are interested in data science, web development, or just want to pick up a new skill.
 
 
