@@ -22,7 +22,7 @@ except ValueError:
     # handle the exception if it occurs
     print("Invalid input. Please enter a valid integer for your age.")
     
-    ```
+    ```python
     
     This code prompts the user to enter their age as an integer, but if they enter a non-integer value (e.g. "abc"), a ValueError exception will be raised. The try-except block catches the exception and prints a message to the user.
 
